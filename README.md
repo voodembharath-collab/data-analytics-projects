@@ -1,15 +1,28 @@
-# Data Analytics Projects
+# Netflix Data Analysis Project
 
-## 📊 Project 1: Sales Dashboard (Power BI)
-- Built interactive dashboard
-- Analyzed sales trends and regions
+## 📌 Objective
+Analyze Netflix dataset to uncover insights about movies and TV shows.
 
-## 🎬 Project 2: Netflix Data Analysis (Python)
-- Used Pandas and Matplotlib
-- Found insights on genres and trends
-
-## 🛠️ Skills Used
-- Excel
-- SQL
-- Power BI
+## 🛠️ Tools & Technologies
 - Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📊 Key Analysis
+- Content distribution (Movies vs TV Shows)
+- Top genres
+- Release year trends
+- Country-wise content
+
+## 📷 Output Screenshots
+(Add your images here)
+
+## ▶️ How to Run
+1. Install dependencies
+2. Run: python netflix_analysis.py
+
+## 📈 Results
+- Movies dominate Netflix content
+- Most content added after 2015
+- Drama & Comedy are top genres
